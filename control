@@ -1,0 +1,9 @@
+Package: in.submar.xdock
+Name: XDock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enables the modern (iPhone X) dock and App Switcher on older devices
+Maintainer: Leaf
+Author: Leaf
+Section: Tweaks
